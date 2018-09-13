@@ -1,11 +1,14 @@
 _repo: Reviisori-Huvinaytelma-viidessa-naytoksessa_51625
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Revizor. Finnish
 contributor:
   translator:
     agent_name: Hjelt, August
     gutenberg_agent_id: '46497'
     url: http://www.gutenberg.org/2009/agents/46497
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gogol, Nikolai Vasilevich
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/531
     wikipedia: http://en.wikipedia.org/wiki/Nikolai_Gogol
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51625#Reviisori-Huvinaytelma-viidessa-naytoksessa
 gutenberg_issued: '2016-04-02'
 gutenberg_type: Text
 identifiers:
